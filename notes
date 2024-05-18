@@ -1,0 +1,8 @@
+I have used 3 images. Icon, Checked, Unchecked.
+
+I am using css pseudo elements to change the property of tasks. like,
+switch from checked to Unchecked. and line thorugh the text.
+
+
+innerHTML = html code which may contain some content.
+innerText = content after removeing html from the innerHTML 
